@@ -1,4 +1,10 @@
-header {
-    width: 100vw;
-
-}
+.header {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  

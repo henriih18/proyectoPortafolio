@@ -1,4 +1,5 @@
-import { ItemNavbar } from "../ItemNavbar/IteamNavbar";
+import React from "react";
+import { ItemNavbar } from "../ItemNavbar/ItemNavbar";
 
 export const Navbar = () => {
     return (
