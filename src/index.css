@@ -15,7 +15,23 @@ body {
 }
 
 h1 {
-  color: orange;
+  color: #2ab860;
   font-size: 2rem;
   margin: 1rem;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+a{
+  text-decoration: none;
 }
